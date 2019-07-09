@@ -1,6 +1,8 @@
 # IP Camera 2.0 MP Super DWDR
 ##  OWLTECH Security Inc.
+
 Item #:BJ2184A-IPC-POE
+
 <http://www.owltechcctv.com/app/stx.productdetail.asp?did=387#.XSRB8KSneXI>
 
 ## Description
@@ -21,7 +23,7 @@ Item #:BJ2184A-IPC-POE
 * IR LEDs 	84pcs F5 IR 850nm LED
 * Max. IR Distance 	150-210ft
 * Day/Night 	Auto (ICR) / Color / B/W
-* Lens
+### Lens
 * Lens 	5-50mm mega pixel lens 
 ### Video
 * Compression 	H.264 Baseline / Main Profile / MJPEG
